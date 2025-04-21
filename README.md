@@ -68,3 +68,7 @@ A Windows Forms application built using **C# and .NET Framework**, designed for 
 1. Clone this repository using GitHub Desktop or:
    ```bash
    git clone https://github.com/your-username/VehicleRentalSystem.git
+
+📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
