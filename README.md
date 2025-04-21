@@ -69,6 +69,8 @@ A Windows Forms application built using **C# and .NET Framework**, designed for 
    ```bash
    git clone https://github.com/your-username/VehicleRentalSystem.git
 
-📄 License
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project is open-source and available under the [MIT License](LICENSE).
